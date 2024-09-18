@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ a{
+    color: inherit;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover {
+    color: inherit;
+}
+
+
+
+
+
+
+
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper {
+    display: inline-block;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    height: auto;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb {
+    position: absolute;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb.placeholder {
+    cursor: default;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb.placeholder span {
+    color: #fff;
+    opacity: 0;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb.placeholder:hover span {
+    color: #fff;
+    opacity: 0;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-icon-hex-lg {
+    background-color: #0ab3e6;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-position: center;
+    transition: background 0.3s ease;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-icon-hex-lg {
+    font-family: "best-wp-developer"!important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb span.firefox {
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    -webkit-box-align: center;
+    display: flex;
+    display: -webkit-flex;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000;
+    z-index: 9;
+    transition: all 0.3s ease;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper {
+    margin: auto;
+    padding: 25px;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper .bwdhcx-title {
+    margin: 0;
+    color: #fff;
+    font-weight: 600;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper .bwdhcx-honeycombs-icon,
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper .bwdhcx-honeycombs-back-icon {
+    color: #fff;
+    font-size: 2rem;
+    line-height: 1;
+    padding-bottom: 0.5rem;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper .bwdhcx-honeycombs-icon svg,
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper .bwdhcx-honeycombs-back-icon svg {
+    fill: #ffffff;
+    width: 1.5em;
+    margin: auto;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner .bwdhcx-wrapper .bwdhcx-content {
+    margin: 0;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.2;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner.back {
+    opacity: 0;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb:hover .bwdhcx-inner.back {
+    opacity: 1;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb:hover .bwdhcx-inner.front {
+    opacity: 0;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner.back .bwdhcx-wrapper {
+    width: inherit;
+    overflow: hidden;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb:hover .bwdhcx-comb-inner-wrapper .bwdhcx-icon-hex-lg {
+    background-color: #ff6493;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    background-position: center;
+    filter: none;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-des-visibility-hide .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner.back {
+    opacity: 0;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-des-visibility-hide .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner.front {
+    opacity: 1;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-title-visibility-hide .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner.back {
+    opacity: 1;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-title-visibility-hide .bwdhcx-honeycombs-inner-wrapper .bwdhcx-comb .bwdhcx-inner.front {
+    opacity: 0;
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs .bwdhcx-icon-hex-lg:before {
+    content: "\e90c";
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-style-radius .bwdhcx-icon-hex-lg:before {
+    content: "\e604";
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-style-radius2 .bwdhcx-icon-hex-lg:before {
+    content: "\e90d";
+}
+.bwdhcx-honeycombs-area .bwdhcx-honeycombs.honeycomb-style-zigzag .bwdhcx-icon-hex-lg:before {
+    content: "\e90f";
+}
+
+
+/* my code */
+.bwdhcx-honeycombs-singleback-img,
+.bwdhcx-honeycombs-single-img {
+    display: inline-block;
+}

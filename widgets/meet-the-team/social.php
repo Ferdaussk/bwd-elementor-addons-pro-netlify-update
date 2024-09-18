@@ -1,0 +1,6 @@
+<div class="mtt-social">
+    <?php if('yes' === $item['mtt_social_icon_one_switcher']){ ?><a class="mtt-social-icon-one" href="<?php echo esc_url($item['mtt_social_icon_one_link']['url']); ?>"><?php \Elementor\Icons_Manager::render_icon( $item['mtt_social_icon_one'], [ 'aria-hidden' => 'true' ] ); ?></a> <?php } ?>
+    <?php if('yes' === $item['mtt_social_icon_two_switcher']){ ?><a class="mtt-social-icon-two" href="<?php echo esc_url($item['mtt_social_icon_two_link']['url']); ?>"><?php \Elementor\Icons_Manager::render_icon( $item['mtt_social_icon_two'], [ 'aria-hidden' => 'true' ] ); ?></a> <?php } ?>
+    <?php if('yes' === $item['mtt_social_icon_three_switcher']){ ?><a class="mtt-social-icon-three" href="<?php echo esc_url($item['mtt_social_icon_three_link']['url']); ?>"><?php \Elementor\Icons_Manager::render_icon( $item['mtt_social_icon_three'], [ 'aria-hidden' => 'true' ] ); ?></a> <?php } ?>
+    <?php if('yes' === $item['mtt_social_icon_four_switcher']){ ?><a class="mtt-social-icon-four" href="<?php echo esc_url($item['mtt_social_icon_four_link']['url']); ?>"><?php \Elementor\Icons_Manager::render_icon( $item['mtt_social_icon_four'], [ 'aria-hidden' => 'true' ] ); ?></a> <?php } ?>
+</div>

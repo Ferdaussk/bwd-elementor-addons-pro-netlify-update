@@ -1,0 +1,1 @@
+<span class="ab-collapsed-icon"><?php \Elementor\Icons_Manager::render_icon( $item['ab_accordion_collapsed_icon'], [ 'aria-hidden' => 'true' ] ); ?></span>

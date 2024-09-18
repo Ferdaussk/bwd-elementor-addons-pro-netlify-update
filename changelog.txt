@@ -1,0 +1,253 @@
+==Changlog==
+
+v 4.12.5----++
+Lotti code updated
+
+
+v 4.12.3----++
+Updated code
+
+
+v 4.12.2----++
+Updated code
+
+
+v 4.12.1----++
+Updated mega menu
+
+
+v 4.12.0----++
+Updated CV builder code
+
+
+v 4.11.29----++
+Updated css file location and code
+
+
+v 4.11.28----++
+Updated code
+
+
+v 4.11.27----++
+Updated css
+
+
+v 4.11.26----++
+Updated css
+
+
+v 4.11.25----++
+Updated header footer builder
+
+
+v 4.11.24----++
+Added a new widget and header footer builder
+
+
+v 4.11.23----++
+Added a new widget
+
+
+v 4.11.22----++
+Updated some bugs
+
+
+v 4.11.21----++
+Updated some controls
+
+
+v 4.11.20----++
+CSS Updated
+
+
+v 4.11.19----++
+Authenticate assets source
+
+
+v 4.10.19----++
+Solve a bug
+
+
+v 4.10.18----++
+Widgets assets updated
+
+
+v 4.9.18----++
+Update assets
+
+
+v 4.8.18----++
++ Updated css style
+
+
+v 4.8.17----++
++ Solving a soft problem for filterable gallery
+
+
+v 4.8.16----++
++ Updated code for testimonials
+
+
+v 4.8.15----++
++ Error solving for creative tabs widget
+
+
+v 4.8.14----++
++ Updated css style
+
+
+v 4.8.13----++
++ Added a product compare widget
+
+
+v 4.8.12----++
++ Updated code
+
+
+v 4.8.11----++
++ Updated css code
+
+
+v 4.8.10----++
+Code updated for live copy
+
+
+v 4.8.9----++
+Code updated
+
+
+v 4.8.8----++
+Add new feature and updated code
+
+
+v 4.7.8----++
+Error solving and updated code
+
+
+v 4.6.8----++
+Update code == loaded js
+
+
+v 4.6.7----++
+Update and add new extension
+
+
+v 4.5.6----++
+Update tooltip extension
+
+
+v 4.5.5----++
+Added new extensions
+
+
+v 4.5.4----++
+Added more new extensions
+
+
+v 4.4.4----++
+Added new extensions
+
+
+v 4.3.4----++
+Code updated
+
+
+v 4.3.3----++
+CSS updated
+
+
+v 4.3.2----++
+Code updated
+
+
+v 4.3.1----++
+Added new extensions
+
+
+v 4.2.1----++
+Added new extensions
+
+
+v 4.1.1----++
+Added new extensions
+
+
+v 4.0.1----++
+Added new extensions
+
+
+v 3.9.0----++
+Code Update
+
+
+v 3.8.9----++
+Code Update
+
+
+v 3.8.8----++
+Code Update
+
+
+v 3.8.1----++
+Code Update
+
+
+v 3.8.0----++
+Added new extensions
+
+
+v 3.7.1----++
+Code update
+
+
+v 3.7.0----++
+Added a new widget
+
+
+v 3.6.1----++
+Added a new widget
+
+
+v 3.6.0----++
+Added more extensions
+
+
+v 3.5.1----++
+Added more new widgets
+
+
+v 3.4.2----++
+Boots
+
+
+v 3.4.1----++
+Added a new widget
+
+
+v 3.3.0----++
+Added some new code for update
+
+
+v 3.1.0----++
+Added some new widgets
+
+
+v 3.0.2----++
+Added some new widgets
+
+
+v 2.0.9----++
+Update Some Code in a Widget
+
+
+v 2.1.0----++
+Update Some Code in a Widget And css with icons also
+
+
+v 2.1.1----++
+Update Some Code in a Widget And Fix some error
+
+
+v 2.1.2----++
+Update Some Code in a Widget And Fix some controls and others
+

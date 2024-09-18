@@ -1,0 +1,224 @@
+
+/* Special Day Banner */
+.spoffer-banner .banner-thumb a {
+    overflow: hidden;
+    position: relative;
+    display: block;
+  }
+  .spoffer-banner .banner-thumb a::before {
+    background: #ffffff none repeat scroll 0 0;
+    content: "";
+    height: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    transition: all 0.5s ease 0s;
+    width: 0;
+  }
+  
+  .spoffer-banner .banner-thumb a::after {
+    background: #ffffff none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 0;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    transition: all 0.5s ease 0s;
+    width: 0;
+  }
+  
+  .spoffer-banner .banner-thumb a img {
+    width: 100%;
+  }
+  
+  .spoffer-banner:hover .banner-thumb a::before {
+    height: 100%;
+    opacity: 0.3;
+    width: 100%;
+  }
+  
+  .spoffer-banner:hover .banner-thumb a::after {
+    height: 100%;
+    opacity: 0.3;
+    width: 100%;
+  }
+  
+  .spoffer-banner {
+    position: relative;
+  }
+  
+  .spoffer-banner .banner-content {
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .spoffer-banner .banner-content a {
+    color: #383838;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .spoffer-banner-content-pos-center .banner-content {
+    top: 50%;
+    right: 0;
+    left: auto;
+    transform: translateY(-50%);
+  }
+  
+  .spoffer-banner-content-pos-bottom .banner-content {
+    bottom: 0;
+    padding-bottom: 40px;
+  }
+  
+  .spoffer-banner-content-pos-top .banner-content {
+    top: 0;
+    padding-top: 40px;
+  }
+  
+  .spoffer-banner.spoffer-banner-content-pos-right .banner-content {
+    top: 50%;
+    right: 0;
+    width: auto;
+    transform: translateY(-50%);
+  }
+  .spoffer-banner.spoffer-banner-content-pos-left .banner-content {
+    top: 50%;
+    left: 0;
+    width: auto;
+    transform: translateY(-50%);
+  }
+  .wlbanner-badgeimage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .wlbanner-badgeimage img {
+    width: 100%;
+  }
+  
+
+  
+svg.spoffer-banner-default{
+    fill-opacity: 0.1;
+  }
+  .spoffer-banner .banner-thumb a {
+      overflow: hidden;
+      position: relative;
+      display: block;
+  }
+  .spoffer-banner .banner-thumb a::before {
+      background: #d2ee85 none repeat scroll 0 0;
+      content: "";
+      height: 0;
+      left: 0;
+      opacity: 0;
+      pointer-events: none;
+      position: absolute;
+      top: 0;
+      transition: all 0.5s ease 0s;
+      width: 0;
+  }
+  
+  .spoffer-banner .banner-thumb a::after {
+      background: #cce66f none repeat scroll 0 0;
+      bottom: 0;
+      content: "";
+      height: 0;
+      opacity: 0;
+      pointer-events: none;
+      position: absolute;
+      right: 0;
+      transition: all 0.5s ease 0s;
+      width: 0;
+  }
+  
+  .spoffer-banner .banner-thumb a img {
+      width: 100%;
+  }
+  
+  .spoffer-banner:hover .banner-thumb a::before {
+      height: 100%;
+      opacity: 0.3;
+      width: 100%;
+  }
+  
+  .spoffer-banner:hover .banner-thumb a::after {
+      height: 100%;
+      opacity: 0.3;
+      width: 100%;
+  }
+  
+  .spoffer-banner {
+      position: relative;
+  }
+  
+  .spoffer-banner .banner-content{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .spoffer-banner .banner-content a {
+    color: #383838;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .spoffer-banner-content-pos-center .banner-content{
+      top: 50%;
+      right: 0;
+      left: auto;
+      transform: translateY(-50%);
+  }
+  
+  .spoffer-banner-content-pos-bottom .banner-content {
+    bottom: 0;
+    padding-bottom: 40px;
+  }
+  
+  .spoffer-banner-content-pos-top .banner-content {
+    top: 0;
+    padding-top: 40px;
+  }
+  
+  .spoffer-banner.spoffer-banner-content-pos-right .banner-content {
+    top: 50%;
+    right: 0;
+    width: auto;
+    transform: translateY(-50%);
+  }
+  .spoffer-banner.spoffer-banner-content-pos-left .banner-content {
+    top: 50%;
+    left: 0;
+    width: auto;
+    transform: translateY(-50%);
+  }
+  .wlbanner-badgeimage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .wlbanner-badgeimage img{
+    width: 100%;
+  }
+  
+  .spoffer_wooc_not_acivate_notice h2{
+    color: red;
+  }

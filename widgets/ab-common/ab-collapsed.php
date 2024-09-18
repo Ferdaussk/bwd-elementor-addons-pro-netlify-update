@@ -1,0 +1,1 @@
+<span class="ab-collapsed"><?php echo esc_html__($item['ab_accordion_title']); ?></span>

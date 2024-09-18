@@ -1,0 +1,376 @@
+.bwdeb-elementor-bundle::after {
+  content: 'bwd' !important;
+  position: absolute !important;
+  right: 7px;
+  top: 7px;
+  color: #fffefe;
+  font-family: initial;
+  background: linear-gradient(90deg, #03a9f4, #f441a5);
+  border-radius: 3px;
+  font-size: 11px;
+  padding: 2px 5px;
+}
+.bwdblmx-MakerBioLink-about-icon::before {
+    content: " "!important;
+    background-image: url(icons/about.png)!important;
+    background-size: cover!important;
+    width: 32px!important;
+    height: 32px!important;
+    display: inline-block!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+}
+.bwdblmx-MakerBioLink-social-icon::before {
+    content: " "!important;
+    background-image: url(icons/social.png)!important;
+    background-size: cover!important;
+    width: 32px!important;
+    height: 32px!important;
+    display: inline-block!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+}
+.bwdblmx-MakerBioLink-biolink-icon::before {
+    content: " "!important;
+    background-image: url(icons/link.png)!important;
+    background-size: cover!important;
+    width: 32px!important;
+    height: 32px!important;
+    display: inline-block!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+}
+.bwdhtsx-TimelineSlider-icon::before {
+  content: " "!important;
+  background-image: url(icons/timeline.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdwpvx-ProductVendors-icon::before {
+    content: " "!important;
+    background-image: url(icons/products.png)!important;
+    background-size: cover!important;
+    width: 32px!important;
+    height: 32px!important;
+    display: inline-block!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+}
+.bwdwpvx-ProductVendors-icon::before {
+  content: " "!important;
+  background-image: url(icons/products.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdtsrx-threesixtyRotation-icon::before {
+  content: " "!important;
+  background-image: url(icons/360-view.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdepix-EmployeeProfile-icon::before {
+  content: " "!important;
+  background-image: url(icons/employee.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdttmx-wish-icon-image::before {
+  content: " "!important;
+  background-image: url(icons/wishlist.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdttmx-cart-icon-image::before {
+  content: " "!important;
+  background-image: url(icons/cart.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdttmx-ToolTip-icon::before {
+  content: " "!important;
+  background-image: url(icons/tooltip-icon.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+@font-face {
+  font-display: auto;
+  font-family: "Iconly";
+  font-style: normal;
+  font-weight: 400;
+  src: url("modern-feature-list-font/iconly.eot?1693039972403");
+  src: url("modern-feature-list-font/iconly.eot?#iefix") format("embedded-opentype"),
+       url("modern-feature-list-font/iconly.woff2?1693039972403") format("woff2"),
+       url("modern-feature-list-font/iconly.woff?1693039972403") format("woff"),
+       url("modern-feature-list-font/iconly.ttf?1693039972403") format("truetype"),
+       url("modern-feature-list-font/iconly.svg?1693039972403#Iconly") format("svg");
+  }
+.bwdsypx-ShowcaseProfile-icon::before {
+  content: "\e000";
+  display: inline-block;
+  font-family: "Iconly" !important;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+.bwdspox-SalesPromotionOffer-icon::before {
+  content: " "!important;
+  background-image: url(icons/special-tag.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+@font-face {
+  font-display: auto;
+  font-family: "Iconly";
+  font-style: normal;
+  font-weight: 400;
+  src: url("modern-feature-list-font/iconly.eot?1693039972403");
+  src: url("modern-feature-list-font/iconly.eot?#iefix") format("embedded-opentype"),
+       url("modern-feature-list-font/iconly.woff2?1693039972403") format("woff2"),
+       url("modern-feature-list-font/iconly.woff?1693039972403") format("woff"),
+       url("modern-feature-list-font/iconly.ttf?1693039972403") format("truetype"),
+       url("modern-feature-list-font/iconly.svg?1693039972403#Iconly") format("svg");
+  }
+.bwdrpmx-RestPriceMenu-icon::before {
+  content: "\e000";
+  display: inline-block;
+  font-family: "Iconly" !important;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+.bwdpmkx-ProgressKit-icon::before {
+  content: " "!important;
+  background-image: url(icons/progress-bar.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdpdfx-ViewPdfClear-icon::before {
+  content: " "!important;
+  background-image: url(icons/pdf.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+@font-face {
+  font-display: auto;
+  font-family: "Iconly-modern-feature-list";
+  font-style: normal;
+  font-weight: 400;
+  src: url("modern-feature-list-font/iconly.eot?1693039972403");
+  src: url("modern-feature-list-font/iconly.eot?#iefix") format("embedded-opentype"),
+       url("modern-feature-list-font/iconly.woff2?1693039972403") format("woff2"),
+       url("modern-feature-list-font/iconly.woff?1693039972403") format("woff"),
+       url("modern-feature-list-font/iconly.ttf?1693039972403") format("truetype"),
+       url("modern-feature-list-font/iconly.svg?1693039972403#Iconly") format("svg");
+  }
+.bwdcspx-ContentSwitchPlus-icon::before {
+  content: " "!important;
+  background-image: url(icons/switch.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdiukx-ImageUnfold-icon::before {
+  content: " "!important;
+  background-image: url(icons/image-unfold.png)!important;
+  background-size: cover!important;
+  width: 32px!important;
+  height: 32px!important;
+  display: inline-block!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.bwdmflx-ModernFeatureList-icon::before {
+  content: "\e000";
+  display: inline-block;
+  font-family: "Iconly-modern-feature-list" !important;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+#elementor-panel-category-bwdthebest_general_category .elementor-panel-category-title,
+#elementor-panel-category-bwdthecv_builder_category .elementor-panel-category-title,
+#elementor-panel-category-bwdthe_post_category .elementor-panel-category-title,
+#elementor-panel-category-bwdthecv_builder_herosections .elementor-panel-category-title,
+.elementor-control-entext_link_wrapper_link_section .elementor-panel-heading,
+.elementor-control-entext_sk_content_protection_section .elementor-panel-heading,
+.elementor-control-entext_wrapper_link_section .elementor-panel-heading,
+.elementor-control-entext_wrapper_cnt_section .elementor-panel-heading,
+.elementor-control-entext_wrapper_flanm_section .elementor-panel-heading,
+#elementor-panel-category-bwdthe_woocommerce_category .elementor-panel-category-title, 
+/* For extensions */
+.elementor-control-bwdproeb_section_background_particles_controls .elementor-section-title, .elementor-control-bwdproeb_section_background_particles_controls i,
+.elementor-control-bwdproeb_section_scroll_box .elementor-section-title, .elementor-control-bwdproeb_section_scroll_box i,
+.elementor-control-section_bwdproeb_confetti_controls .elementor-section-title, .elementor-control-section_bwdproeb_confetti_controls i,
+.elementor-control-bwdproeb_tile_scroll_section .elementor-section-title, .elementor-control-bwdproeb_tile_scroll_section i,
+.elementor-control-ext_bwdproeb_sticky_section .elementor-section-title, .elementor-control-ext_bwdproeb_sticky_section i,
+.elementor-control-bwdproeb_cursor_effects_section .elementor-section-title, .elementor-control-bwdproeb_cursor_effects_section i,
+.elementor-control-section_bwdproeb_reveal_controls .elementor-section-title, .elementor-control-section_bwdproeb_reveal_controls i,
+.elementor-control-section_skbwd_threed_text_controls .elementor-section-title, .elementor-control-section_skbwd_threed_text_controls i,
+.elementor-control-section_bwdproeb_notation_controls .elementor-section-title, .elementor-control-section_bwdproeb_notation_controls i,
+.elementor-control-entext_wrapper_flanm_section .elementor-section-title, .elementor-control-entext_wrapper_flanm_section i,
+.elementor-control-entext_wrapper_cnt_section .elementor-section-title, .elementor-control-entext_wrapper_cnt_section i,
+.elementor-control-entext_wrapper_cnt_section .elementor-section-title, .elementor-control-entext_wrapper_cnt_section i,
+.elementor-control-entext_link_wrapper_link_section .elementor-section-title, .elementor-control-entext_link_wrapper_link_section i,
+.elementor-control-entext_wrapper_link_section .elementor-section-title, .elementor-control-entext_wrapper_link_section i,
+.elementor-control-bwdproeb_section_parallax_on .elementor-control-title,
+.elementor-control-bwdproeb_control_backdrop_filter .elementor-control-title,
+.elementor-control-entext_sk_content_protection_section .elementor-section-title, .elementor-control-entext_sk_content_protection_section i,
+.elementor-control-bwd_addons_custom_js_section .elementor-section-title, .elementor-control-bwd_addons_custom_js_section i,
+.elementor-control-bwdproeb_grid_line_section .elementor-section-title, .elementor-control-bwdproeb_grid_line_section i,
+.elementor-control-bwdproeb_cursor_img_parallax_section .elementor-section-title, .elementor-control-bwdproeb_cursor_img_parallax_section i,
+.elementor-control-bwdproeb_gra_anim_bg_section .elementor-section-title, .elementor-control-bwdproeb_gra_anim_bg_section i,
+.elementor-control-_section_bwdproeb_live_copy .elementor-section-title, .elementor-control-_section_bwdproeb_live_copy i,
+.elementor-context-menu-list__group-bwdproeb-clipboard .elementor-context-menu-list__item__title, .elementor-context-menu-list__group-bwdproeb-clipboard .elementor-context-menu-list__item__shortcut,
+.elementor-control-section_bwdproeb_tooltip_controls .elementor-section-title, .elementor-control-section_bwdproeb_tooltip_controls i,
+.elementor-context-menu-list__group-bwdproeb_container .elementor-context-menu-list__item__title
+ {
+  background: linear-gradient(90deg, #f441a5, #03a9f4);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-size: 14px;
+}
+#elementor-panel-category-bwdthebest_general_category .elementor-panel-category-title:before,
+#elementor-panel-category-bwdthecv_builder_category .elementor-panel-category-title:before, 
+#elementor-panel-category-bwdthe_post_category .elementor-panel-category-title:before, 
+#elementor-panel-category-bwdthe_woocommerce_category .elementor-panel-category-title:before {
+  -webkit-text-fill-color: #7a7a7a;
+}
+.elementor-control-ab_accordion_inner_content_heading .elementor-control-title {
+  font-size: 15px!important;
+  font-weight: 500!important;
+}
+.icon-bar-chart::before,
+.icon-about::before,
+.cv-contact::before,
+.icon-footer::before,
+.cv-education::before,
+.cv-languages::before,
+.cv-experience::before,
+.cv-hobbies::before,
+.icon-reference::before,
+.icon-skills::before,
+.icon-header::before,
+.lord-icon::before,
+.unfold-content::before {
+font-family: "BWD" !important;
+display: inline-block;
+font-weight: 400;
+font-style: normal;
+font-variant: normal;
+text-rendering: auto;
+line-height: 1;
+-moz-osx-font-smoothing: grayscale;
+-webkit-font-smoothing: antialiased;
+}
+
+
+@font-face {
+  font-family: "BWD";
+  src: url("../font/bwd.eot?1685595855536");
+  src: url("../font/bwd.eot?#iefix") format("embedded-opentype"),
+  url("../font/bwd.woff2?1685595855536") format("woff2"),
+  url("../font/bwd.woff?1685595855536") format("woff"),
+  url("../font/bwd.ttf?1685595855536") format("truetype"),
+  url("../font/bwd.svg?1685595855536#Iconly") format("svg");
+}
+.icon-bar-chart::before {
+  content: "\e007";
+}
+.icon-about::before {
+  content: "\e04d";
+}
+.cv-contact::before {
+  content: "\e046";
+}
+.icon-footer::before {
+  content: "\e04e";
+}
+.cv-education::before {
+  content: "\e047";
+}
+
+.cv-languages::before {
+  content: "\e048";
+}
+
+.cv-experience::before {
+  content: "\e049";
+}
+
+.cv-hobbies::before {
+  content: "\e04a";
+}
+
+.icon-reference::before {
+  content: "\e04b";
+}
+
+.icon-skills::before {
+  content: "\e04c";
+}
+.icon-header::before {
+  content: "\e04f";
+}
+.lord-icon::before {
+  content: "\e050";
+}
+.unfold-content::before {
+  content: "\e03b";
+}
